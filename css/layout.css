@@ -66,4 +66,7 @@ body {
   .column.side, .column.middle {
     width: 100%;
   }
+  .column {
+    display: inline-block;
+  }
 }
